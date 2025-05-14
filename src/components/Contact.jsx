@@ -108,7 +108,7 @@ const Contact = () => {
                          <NavLink to='https://www.linkedin.com/in/simranabbasov' target="_blank"
              className='bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium'>www.linkedin.com/in/simranabbasov</NavLink>
                          <span className='text-white font-medium mt-4'>My number</span>
-            <NavLink to='tel:+994516944794'
+            <NavLink to='tel:+994504671794'
              className='bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium'>+ (994) 51 694 47 94</NavLink>
 
           </label>
